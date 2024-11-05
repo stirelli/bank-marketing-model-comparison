@@ -1,4 +1,4 @@
-# Practical Application Assignment 17.1
+# Practical Application III: Comparing Classifiers
 
 This repository contains the project for predicting client subscription likelihood to term deposits after a marketing campaign, allowing banks to optimize their campaign efficiency and target high-potential clients.
 
