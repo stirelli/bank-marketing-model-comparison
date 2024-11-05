@@ -1,6 +1,7 @@
-# Practical Application III: Comparing Classifiers
+# Practical Application III: Bank Marketing Model Comparison Classifiers
 
-This repository contains the project for predicting client subscription likelihood to term deposits after a marketing campaign, allowing banks to optimize their campaign efficiency and target high-potential clients.
+This repository contains the project for **Practical Application Assignment 17.1: Predicting Client Subscription Likelihood for Bank Marketing Campaigns**.  
+The objective of this project is to analyze factors that influence clients' likelihood to subscribe to a term deposit, optimizing marketing campaigns using various machine learning models.
 
 ## Table of Contents
 1. [Link to Notebook](https://github.com/stirelli/bank-marketing-model-comparison/blob/main/notebook.ipynb)
