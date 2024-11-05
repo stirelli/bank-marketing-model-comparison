@@ -1,6 +1,6 @@
-# Practical Application III: Bank Marketing Model Comparison Classifiers
+# Practical Application Assignment 17.1: Comparing Classifiers
 
-This repository contains the project for **Practical Application Assignment 17.1: Predicting Client Subscription Likelihood for Bank Marketing Campaigns**.  
+This repository contains the project for **Practical Application Assignment 17.1: Comparing Classifiers**.  
 The objective of this project is to analyze factors that influence clients' likelihood to subscribe to a term deposit, optimizing marketing campaigns using various machine learning models.
 
 ## Table of Contents
