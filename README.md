@@ -2,6 +2,19 @@
 
 This repository contains the project for predicting client subscription likelihood to term deposits after a marketing campaign, allowing banks to optimize their campaign efficiency and target high-potential clients.
 
+## Table of Contents
+1. [Link to Notebook](https://github.com/stirelli/bank-marketing-model-comparison/blob/main/notebook.ipynb)
+2. [Project Overview](#project-overview)
+3. [Project Objectives](#project-objectives)
+4. [Methodology](#methodology)
+5. [Findings and Recommendations](#findings-and-recommendations)
+   - [Key Findings](#key-findings)
+   - [Recommendations](#recommendations)
+6. [Next Steps](#next-steps)
+7. [Repository Structure](#repository-structure)
+8. [How to Run](#how-to-run)
+9. [Conclusion](#conclusion) 
+
 ## Project Overview
 
 The goal of this project is to build and evaluate predictive models to determine the likelihood of clients subscribing to a term deposit. By identifying high-potential clients, the bank can enhance campaign efficiency, saving resources and improving conversion rates. The primary success metrics are accuracy and ROC-AUC, given the class imbalance in the dataset.
