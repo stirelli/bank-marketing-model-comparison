@@ -22,7 +22,7 @@ The goal of this project is to build and evaluate predictive models to determine
 
 ## Project Objectives
 1. **Data Exploration**: Understand the dataset through summary statistics and visualizations, with a focus on identifying key features and potential relationships with the target variable.
-2. **Baseline Model**: Establish a baseline performance using a `DummyClassifier` to set a minimum performance benchmark.
+2. **Baseline Model**: Establish a baseline performance to set a minimum performance benchmark.
 3. **Model Building**: Implement four different classifiers (Logistic Regression, K-Nearest Neighbors, Decision Tree, and SVM) with default hyperparameters.
 4. **Model Evaluation**: Compare models based on accuracy and ROC-AUC metrics using cross-validation.
 5. **Model Improvement**: Refine models by exploring additional feature engineering, hyperparameter tuning, and adjusting evaluation metrics to enhance performance.
@@ -32,7 +32,7 @@ The goal of this project is to build and evaluate predictive models to determine
 1. **Data Preprocessing**: Cleaned the dataset by handling missing values, encoding categorical variables, and scaling numerical features.
 2. **Exploratory Data Analysis (EDA)**: Visualized feature distributions and calculated the correlation matrix to identify relationships between variables.
 3. **Modeling**:
-   - Created and evaluated a baseline model using a stratified `DummyClassifier`.
+   - Created and evaluated a baseline model.
    - Built and compared four machine learning models: Logistic Regression, K-Nearest Neighbors, Decision Tree, and Support Vector Machine.
 4. **Evaluation Metrics**:
    - **Accuracy**: To gauge general predictive power.
